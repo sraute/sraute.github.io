@@ -6,10 +6,10 @@
 lang: "en"
 
 # Name of your site (displayed in the header)
-title: Forever Jekyll
+title: Cats are awesome 
 
 # Short bio or description (displayed in the header)
-description: A simple, elegant and full featured Jekyll theme
+description: A simple, elegant and full cat page
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/image/avatar.png
@@ -38,6 +38,9 @@ navigation_links:
 
   - title: Search
     url: /search
+     
+  - title: Meow
+    url: /meow
 
 # Footer icons
 footer_links:
