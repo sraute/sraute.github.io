@@ -6,7 +6,7 @@ categories: [content, demo]
 
 ## Cats in religious studies 
 
-Animals are of different importance for many religions. They have different roles in the history of religion. Animals as food, animals as offerings, the question of purity or impurity, the sanctification and worship of animals, or the connection between animals and deities. All of these areas and more can be studied in religious studies. But not all animals have the same meanings. Some have special roles, others are not mentioned in religious texts. Here we take a closer look at one example and ask the question: What role do cats play in religions? 
+Animals are of importance for many religions. They have different roles in the history of religion. Animals as food, animals as offerings, the question of purity or impurity, the sanctification and worship of animals, or the connection between animals and deities. All of these areas and more can be studied in religious studies. But not all animals have the same meanings. Some have special roles, others are not mentioned in religious texts. Here we take a closer look at one example and ask the question: What role do cats play in religions? 
 <!--more--
 
 Cats in different religions.... bla bla bla 
