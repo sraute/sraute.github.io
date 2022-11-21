@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: Cats in religious studies
 categories: [content, demo]
 ---
 
