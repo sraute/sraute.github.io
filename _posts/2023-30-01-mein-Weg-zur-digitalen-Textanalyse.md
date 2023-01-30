@@ -3,6 +3,7 @@ layout: post
 title: Mein Weg zur digitalen Textanalyse
 categories: [Textanalyse, Web Scraping]
 ---
+
 ## Mein Weg zur digitalen Textanalyse
 ## Webscraping und Textanalyse, wie habe ich das geschafft? 
 Das Studium der Religionswissenschaft kann so unglaublich vielfältig sein. So neigt sich das Wintersemester 2022/2023 dem Ende und ich stelle Euch ein Projekt aus dem Bereich der Digital Humanities in religionswissenschaftlicher Nutzung vor.
